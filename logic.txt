@@ -3,3 +3,5 @@ Score cantidate builds based on distributions as parameters
 incompatability penalties accounted for (ex. Choice + Prot = not a reasonable build)
 Scoring cantidates can be modeled:
 BuildScore(b) = sum of (w(log(P(distribution parameter)))) * incompatability
+picks most likely build for each mon and then
+TeamScore(b1,b2...) ~ 
