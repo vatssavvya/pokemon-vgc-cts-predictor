@@ -1,0 +1,5 @@
+based on API distributions split into multiple cantidate builds
+Score cantidate builds based on distributions as parameters 
+incompatability penalties accounted for (ex. Choice + Prot = not a reasonable build)
+Scoring cantidates can be modeled:
+BuildScore(b) = 
