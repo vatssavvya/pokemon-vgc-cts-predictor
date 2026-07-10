@@ -10,7 +10,6 @@ A strategic forecasting tool built for the *Pokémon Champions* ranked ladder. T
 
 ## 🛠️ Tech Stack & Architecture
 
-*(Modify this based on what you decide to use!)*
 - **Language:** Python 3.x
 - **Data Source:** Static JSON database compiled from current meta usage statistics.
 - **Interface:** Command Line Interface (CLI) / Planned transition to a Streamlit web app.
